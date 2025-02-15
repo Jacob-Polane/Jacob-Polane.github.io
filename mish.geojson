@@ -2,5 +2,8 @@
   "people": [
     {}
   ],
-  "data": []
+  "data": [],
+  "name": "Mish",
+  "age": 25,
+  "location": "Nigeria"
 }
