@@ -18,5 +18,10 @@
     "username": "user4",
     "password": "password",
     "email": "email@gmail.com"
+  },
+  "4": {
+    "username": "user5",
+    "password": "password",
+    "email": "email@gmail.com"
   }
 }
